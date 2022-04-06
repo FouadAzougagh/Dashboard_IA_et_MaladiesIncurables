@@ -1,9 +1,9 @@
-Ce projet a pour initiative la réalisation d'un dashboard à partir de données scrappées sur un site scientifique afin de représenter en terme d'ouvrages la contribution de l'IA aux maladies incurables.
+Ce projet a pour initiative la réalisation d'un dashboard à partir de données scrappées sur un site de revues scientifiques (PubMed) afin de représenter en terme d'ouvrages la contribution de l'IA aux maladies incurables.
 
 Pour ce faire trois phases ont été mises en place durant ce projet : 
 
 - La conception et l'alimentation d'une base de données.
-- La scrapping et le nettoyage des données recquises sur le site.
+- La scrapping et le nettoyage des données recquises sur PubMed.
 - La création d'un dashboard permettant de répondre à la problématique.
 
 Un rapport détaillant chacune de ces phases est disponible à la section 'Documentation'.
